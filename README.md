@@ -1,6 +1,7 @@
-# holbox
+<img src="logo.png" width="150" />
 
-![holbox](logo.png)
+
+# holbox
 
 
 holbox is designed to help you organize anything you have in mind, it comes with multiple tools, ranging from very basic ones like notes to others a bit more complex like Kanban.
