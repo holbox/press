@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# holbox
 
-You can use the [editor on GitHub](https://github.com/holbox/press/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![holbox](logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+holbox is designed to help you organize anything you have in mind, it comes with multiple tools, ranging from very basic ones like notes to others a bit more complex like Kanban.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+holbox ultra fast synching with all your devices on: MacBook, iMac, iPhone, iPad, iPod and Apple Watch using iCloud.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Features
 
-1. Numbered
-2. List
+### Kanban
+Create boards and organize your projects by creating a card in the board for each task you need to complete, and move these cards along the columns in your board as the project progresses.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### To Do
+Create check lists to remember and track the things you need to do.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Shopping
+Create lists of things you need to get when you visit the supermarket next time.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holbox/press/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Notes
+Write your ideas and thoughts, and have them with you ready at all times.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+If you have feedback or questions please reach us on Twitter [@holboxApp](https://twitter.com/@holboxApp)
