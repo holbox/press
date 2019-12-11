@@ -66,6 +66,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header ul {
+	color:#B6BDFF;
+}
+
 section {
   width:500px;
   float:right;
